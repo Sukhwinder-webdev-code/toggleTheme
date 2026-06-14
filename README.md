@@ -44,7 +44,7 @@ The application updates colors, providing a personalized and accessible user exp
 
 ## deployment
 The project is deployed and hosted on vercel
-Live: https:toggle-theme-jbe8eyyf8-sukhwinder-s-projects.vercel.app
+Live: https://toggle-theme-jbe8eyyf8-sukhwinder-s-projects.vercel.app
 
 ## future-improvements
 - Add multiple color themes
