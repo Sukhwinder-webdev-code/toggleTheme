@@ -125,7 +125,7 @@ header {
     margin: auto;
     gap: 8px;
     color: white;
-    background-image: url('banner.avif');
+    background-image: url('assets/banner.avif');
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
